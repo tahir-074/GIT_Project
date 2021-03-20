@@ -1,7 +1,6 @@
 # GIT_Project
 <html>
 <head>
-<title> GIT_Project </title>
 </head>
 <body>
 <h1> TAHIR </h1>
